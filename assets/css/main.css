@@ -159,10 +159,11 @@ h6 {
 .header .profile-img img {
   margin: 25px auto;
   display: block;
-  border-radius: 20px;
+  border-radius: 50%;
   max-width: 220px;
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
+
 
 .header .logo {
   line-height: 1;
@@ -3719,6 +3720,3 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
